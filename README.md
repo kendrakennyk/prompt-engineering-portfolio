@@ -12,6 +12,6 @@ Welcome! I'm Kendra from Lagos, Nigeria, learning prompt engineering to create r
 - [View project →](add-link-later)
 
 ## About Me
-Aspiring prompt engineer. Self-taught with ChatGPT/Claude. Building skills for freelance on Braintrust. Open to collaborations!
+Professional prompt engineer. Self-taught with ChatGPT/Claude. Building skills for freelance on Braintrust. Open to collaborations!
 
 Contact: kendrakennyk@gmail.com
